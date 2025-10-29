@@ -1,6 +1,8 @@
 # Bem-vindo(a) à Cooperativa Girassol
 
 ![Foto de uma cesta de produtos orgânicos da Cooperativa Girassol](image.png)
+
+
 *Nossa colheita fresca, da terra para sua mesa.*
 
 > Semeando saúde, colhendo comunidade.
